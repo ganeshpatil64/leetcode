@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/ganeshpatil64/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ganeshpatil64/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
