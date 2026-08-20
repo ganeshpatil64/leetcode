@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/ganeshpatil64/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ganeshpatil64/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/ganeshpatil64/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ganeshpatil64/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -34,4 +35,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ganeshpatil64/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/ganeshpatil64/leetcode/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
